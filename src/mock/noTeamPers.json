@@ -1,0 +1,24 @@
+{
+    "noTeamPers": [
+        {
+            "userNo": 0,
+            "userName": "破败冰王",
+            "userType": "mainPolice"
+        },
+        {
+            "userNo": 1,
+            "userName": "铁男",
+            "userType": "supPolice"
+        },
+        {
+            "userNo": 2,
+            "userName": "诺手",
+            "userType": "mainPolice"
+        },
+        {
+            "userNo": 3,
+            "userName": "鳄鱼",
+            "userType": "supPolice"
+        }
+    ]
+}

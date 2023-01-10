@@ -1,0 +1,44 @@
+{
+    "classList": [
+        {
+            "classCode": "000",
+            "startTime": "00:00",
+            "endTime": "01:00"
+        },
+        {
+            "classCode": "111",
+            "startTime": "01:00",
+            "endTime": "02:00"
+        },
+        {
+            "classCode": "222",
+            "startTime": "02:00",
+            "endTime": "03:00"
+        },
+        {
+            "classCode": "333",
+            "startTime": "03:00",
+            "endTime": "04:00"
+        },
+        {
+            "classCode": "444",
+            "startTime": "04:00",
+            "endTime": "05:00"
+        },
+        {
+            "classCode": "555",
+            "startTime": "06:00",
+            "endTime": "07:00"
+        },
+        {
+            "classCode": "666",
+            "startTime": "07:00",
+            "endTime": "08:00"
+        },
+        {
+            "classCode": "777",
+            "startTime": "09:00",
+            "endTime": "10:00"
+        }
+    ]
+}

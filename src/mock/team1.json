@@ -1,0 +1,85 @@
+{
+    "reportNo":"reportNo-1",
+    "teamList": [
+        {
+            "teamCode": "team-c",
+            "teamName": "team-c",
+            "teamPers": [
+                {
+                    "userNo": "user-0",
+                    "userName": "卡兹克"
+                },
+                {
+                    "userNo": "user-1",
+                    "userName": "厄加特"
+                },
+                {
+                    "userNo": "user-2",
+                    "userName": "派克"
+                }
+            ],
+            "devices": [
+                {
+                    "deviceCode": "gun-0",
+                    "deviceType": "GUN"
+                },
+                {
+                    "deviceCode": "uav-0",
+                    "deviceType": "UAV"
+                },
+                {
+                    "deviceCode": "radio-0",
+                    "deviceType": "RADIO"
+                },
+                {
+                    "deviceCode": "recoder-0",
+                    "deviceType": "RECODER"
+                },
+                {
+                    "deviceCode": "vehicle-0",
+                    "deviceType": "VEHICLE"
+                }
+            ]
+        },
+        {
+            "teamCode": "team-d",
+            "teamName": "team-d",
+            "teamPers": [
+                {
+                    "userNo": "user-0",
+                    "userName": "劫"
+                },
+                {
+                    "userNo": "user-1",
+                    "userName": "武器大师"
+                },
+                {
+                    "userNo": "user-2",
+                    "userName": "戏命师"
+                }
+            ],
+            "devices": [
+                {
+                    "deviceCode": "gun-1",
+                    "deviceType": "GUN"
+                },
+                {
+                    "deviceCode": "uav-1",
+                    "deviceType": "UAV"
+                },
+                {
+                    "deviceCode": "radio-1",
+                    "deviceType": "RADIO"
+                },
+                {
+                    "deviceCode": "recoder-2",
+                    "deviceType": "RECODER"
+                },
+                {
+                    "deviceCode": "vehicle-3",
+                    "deviceType": "VEHICLE"
+                }
+            ]
+        }
+    ]
+}
